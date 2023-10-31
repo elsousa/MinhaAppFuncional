@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{19C20528-1A7A-4333-98F5-BB46D907495B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMvcFuncional", "src\AppMvcFuncional\AppMvcFuncional.csproj", "{A65EC79D-63C4-4512-8893-3535961086EB}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352F7E02-D899-4C19-9D42-DBBAE34995A9}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Debug|x64.Build.0 = Debug|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Debug|x86.Build.0 = Debug|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Release|x64.ActiveCfg = Release|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Release|x64.Build.0 = Release|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Release|x86.ActiveCfg = Release|Any CPU
+		{A65EC79D-63C4-4512-8893-3535961086EB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A65EC79D-63C4-4512-8893-3535961086EB} = {19C20528-1A7A-4333-98F5-BB46D907495B}
+	EndGlobalSection
+EndGlobal
